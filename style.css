@@ -3,6 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     background: linear-gradient(white, rgb(92, 173, 224));
+    height: 100lvh;
 }
 
 button {
@@ -26,4 +27,12 @@ li {
     border-radius: 4px;
     padding: 10px;
     margin: 4px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    color: white;
 }
