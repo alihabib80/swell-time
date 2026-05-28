@@ -4,7 +4,7 @@ This repo focuses on Surfing locations
 
 ## Locations
 
-You must be 
+You have to be 
 - Registered to the programm
 - Older than 18 yrs old
 
