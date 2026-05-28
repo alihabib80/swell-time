@@ -2,6 +2,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: flex;
     flex-direction: column;
+    background: linear-gradient(white, rgb(92, 173, 224));
 }
 
 button {
@@ -13,4 +14,16 @@ img {
     width: 400px;
     border: 2px solid yellowgreen;
     visibility: hidden;
+}
+
+section#team {
+    font-size: 20px;
+    color: blueviolet;
+}
+
+li {
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 4px;
 }
